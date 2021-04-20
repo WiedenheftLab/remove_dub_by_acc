@@ -28,4 +28,4 @@ Basic Options:
 # Note:
 Demo file is available to use with the basic command line provided in syntax section above. 
 
-    demo_with_dup.fasta                      Includes aligned protein sequences
+    demo_with_dup.fasta                      Includes duplicated entries for the same accessions
